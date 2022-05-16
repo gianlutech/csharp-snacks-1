@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-snacks-1", "csharp-snacks-1.csproj", "{96EAC358-7D40-4304-BF35-7A48B1D13728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96EAC358-7D40-4304-BF35-7A48B1D13728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EAC358-7D40-4304-BF35-7A48B1D13728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EAC358-7D40-4304-BF35-7A48B1D13728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EAC358-7D40-4304-BF35-7A48B1D13728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F31CE1-542D-4735-A18C-8A2CF36B71A1}
+	EndGlobalSection
+EndGlobal
